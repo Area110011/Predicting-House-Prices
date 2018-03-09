@@ -1,2 +1,2 @@
 # Predicting-House-Prices
-Exploring House Price dataset
+iPython notebook for predicting house prices, using data from King County, USA, the region where the city of Seattle is located.
